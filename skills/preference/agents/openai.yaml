@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preference"
+  short_description: "Capture and apply project preferences"
+  default_prompt: "Use $preference to configure my saved project preferences."
